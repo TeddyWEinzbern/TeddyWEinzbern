@@ -2,6 +2,7 @@
 Aerospace Engineering Student @ UNSW
 
 <p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-%20?style=flat-square&logo=c&logoColor=%23FFFFFF&color=%2300599C">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%20?style=flat-square&logo=cplusplus&logoColor=%23FFFFFF&color=%2300599C">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=%23FFFFFF&color=%233776AB">
   <img alt="Static Badge" src="https://img.shields.io/badge/Lua-%20?style=flat-square&logo=lua&logoColor=%23FFFFFF&color=%232C2D72">
