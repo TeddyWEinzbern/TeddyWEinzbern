@@ -1,5 +1,5 @@
 #### ABOUT
-Aerospace Engineering Student @ UNSW
+Aerospace Engineering @ UNSW
 
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%20?style=flat-square&logo=c&logoColor=%23FFFFFF&color=%2300599C">
